@@ -1,0 +1,10 @@
+// @charset "utf-8";
+
+// @import "../node_modules/bulma/bulma.sass";
+
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  width: 10px;
+}
