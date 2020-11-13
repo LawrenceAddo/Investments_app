@@ -2,14 +2,11 @@ import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import InvestmentAll from './components/investmentAll'
 
-
-
-
 class App extends Component {
   render() {
     return (
       <div>
-        <InvestmentAll/>
+        <InvestmentAll />
       </div>
     )
   }
